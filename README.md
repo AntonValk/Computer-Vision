@@ -1,5 +1,6 @@
 # Computer-Vision
 Course Work for ECSE-415
+Author: Antonios Valkanas
 
 ## Contents:
 
