@@ -13,5 +13,5 @@ Author: Antonios Valkanas
 ## Tools:
 At least Python 3.5 and compatible Numpy, OpecCV and their dependencies. A good way of getting all of these is Anaconda.
 
-If you are using this repo to learn or to do your assingment please consider giving it a star so more people can see it.
+If you are using this repo to learn or to do your assignment please consider giving it a star so more people can see it.
 Also please follow academic integrity and do not copy paste my code, you should rather try to understand it and implement your own solutions.
